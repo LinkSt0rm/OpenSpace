@@ -1,0 +1,14 @@
+{
+  "volume": 5,
+  "space": 1,
+  "instruments": [
+      ["bass_left", [-3, -5, 5], 1],
+      ["bass_right", [3, -5, 5], 1],
+      ["drums_left", [-3, -3, 3], 1],
+      ["drums_right", [3, -3, 3], 1],
+      ["other_left", [-5, 3, -5], 1],
+      ["other_right", [5, 3, -5], 1],
+      ["vocals_left", [-5, 5, -3], 1],
+      ["vocals_right", [5, 5, -3], 1]
+  ]
+}
