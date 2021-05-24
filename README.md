@@ -12,3 +12,4 @@ Place music file (any ffmpeg compatible format) in audio folder
 - [ffmpeg](https://ffmpeg.org/)
 - [PyOpenAL-HRTF](https://github.com/mmxgn/PyOpenAL-HRTF)
 - The latest [OpenAL-Soft](https://openal-soft.org/) binary (replace binary from PyOpenAL-HRTF in Python environment)
+  - Add hrtfs folder to OpenAL-Soft HRTF definition paths in config file
